@@ -1,0 +1,10 @@
+{
+    "from": "User",
+    "inherits": "MyKlipper 0.4 nozzle",
+    "is_custom_defined": "0",
+    "machine_end_gcode": "",
+    "machine_start_gcode": "",
+    "name": "MyKlipper 1",
+    "printer_settings_id": "MyKlipper 1",
+    "version": "2.3.1.10"
+}
