@@ -1,0 +1,42 @@
+{
+    "default_filament_colour": [
+        "#FFFFFF"
+    ],
+    "fan_min_speed": [
+        "20"
+    ],
+    "filament_cost": [
+        "700"
+    ],
+    "filament_retraction_length": [
+        "1"
+    ],
+    "filament_settings_id": [
+        "Vivid Makers PTEG - White"
+    ],
+    "filament_type": [
+        "PETG"
+    ],
+    "filament_vendor": [
+        "Vivid Maker"
+    ],
+    "from": "User",
+    "hot_plate_temp": [
+        "70"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "70"
+    ],
+    "inherits": "Creality Generic PLA",
+    "name": "Vivid Makers PTEG - White",
+    "nozzle_temperature": [
+        "240"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "240"
+    ],
+    "overhang_fan_threshold": [
+        "25%"
+    ],
+    "version": "2.2.0.4"
+}

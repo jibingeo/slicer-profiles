@@ -1,0 +1,27 @@
+{
+    "default_filament_colour": [
+        "#FFFFFF"
+    ],
+    "filament_cost": [
+        "900"
+    ],
+    "filament_flow_ratio": [
+        "0.982311"
+    ],
+    "filament_settings_id": [
+        "Numakers PLA - Gray"
+    ],
+    "filament_vendor": [
+        "Dream Polymer"
+    ],
+    "from": "User",
+    "inherits": "Creality Generic PLA",
+    "name": "Numakers PLA - Gray",
+    "nozzle_temperature": [
+        "210"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "210"
+    ],
+    "version": "2.2.0.4"
+}

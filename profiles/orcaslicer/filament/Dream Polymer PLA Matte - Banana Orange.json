@@ -1,0 +1,27 @@
+{
+    "default_filament_colour": [
+        "#FFFF0A"
+    ],
+    "filament_cost": [
+        "900"
+    ],
+    "filament_flow_ratio": [
+        "0.953914"
+    ],
+    "filament_settings_id": [
+        "Dream Polymer PLA Matte - Banana Orange"
+    ],
+    "filament_vendor": [
+        "Dream Polymer"
+    ],
+    "from": "User",
+    "inherits": "Creality Generic PLA",
+    "name": "Dream Polymer PLA Matte - Banana Orange",
+    "nozzle_temperature": [
+        "195"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "210"
+    ],
+    "version": "2.2.0.4"
+}

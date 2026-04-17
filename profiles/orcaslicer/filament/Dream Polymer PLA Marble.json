@@ -1,0 +1,24 @@
+{
+    "default_filament_colour": [
+        "#FFFFFF"
+    ],
+    "filament_cost": [
+        "900"
+    ],
+    "filament_settings_id": [
+        "Dream Polymer PLA Marble"
+    ],
+    "filament_vendor": [
+        "Dream Polymer"
+    ],
+    "from": "User",
+    "inherits": "Creality Generic PLA",
+    "name": "Dream Polymer PLA Marble",
+    "nozzle_temperature": [
+        "195"
+    ],
+    "nozzle_temperature_initial_layer": [
+        "195"
+    ],
+    "version": "2.2.0.4"
+}

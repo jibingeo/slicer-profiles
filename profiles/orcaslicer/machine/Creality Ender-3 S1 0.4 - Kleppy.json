@@ -1,0 +1,28 @@
+{
+    "deretraction_speed": [
+        "35"
+    ],
+    "from": "User",
+    "gcode_flavor": "klipper",
+    "inherits": "Creality Ender-3 S1 0.4 nozzle",
+    "machine_end_gcode": "END_PRINT",
+    "machine_start_gcode": "START_PRINT BED_TEMP=[bed_temperature_initial_layer_single] EXTRUDER_TEMP=[nozzle_temperature_initial_layer]",
+    "name": "Creality Ender-3 S1 0.4 - Kleppy",
+    "nozzle_type": "brass",
+    "print_host": "http://192.168.68.61/",
+    "printer_settings_id": "Creality Ender-3 S1 0.4 - Kleppy",
+    "retraction_length": [
+        "0.2"
+    ],
+    "retraction_minimum_travel": [
+        "1"
+    ],
+    "retraction_speed": [
+        "35"
+    ],
+    "support_multi_bed_types": "1",
+    "version": "2.2.0.4",
+    "z_hop": [
+        "0"
+    ]
+}
