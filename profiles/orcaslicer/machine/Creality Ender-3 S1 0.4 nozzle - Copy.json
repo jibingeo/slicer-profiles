@@ -1,9 +1,0 @@
-{
-    "from": "User",
-    "inherits": "Creality Ender-3 S1 0.4 nozzle",
-    "is_custom_defined": "0",
-    "name": "Creality Ender-3 S1 0.4 nozzle - Copy",
-    "print_host": "192.168.68.61",
-    "printer_settings_id": "Creality Ender-3 S1 0.4 nozzle - Copy",
-    "version": "2.3.0.3"
-}
