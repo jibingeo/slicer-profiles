@@ -144,7 +144,6 @@
     ],
     "nozzle_height": "2.5",
     "nozzle_hrc": "0",
-    "nozzle_type": "brass",
     "nozzle_volume": "0",
     "parking_pos_retraction": "92",
     "pellet_modded_printer": "0",
@@ -158,6 +157,16 @@
     "printable_height": "270",
     "printer_model": "Creality Ender-3 S1",
     "printer_notes": "",
+    "nozzle_type": [
+        "brass"
+    ],
+    "print_host": "http://192.168.68.61/",
+    "printer_extruder_id": [
+        "1"
+    ],
+    "printer_extruder_variant": [
+        "Direct Drive Standard"
+    ],
     "printer_settings_id": "Creality Ender-3 S1 0.4 - Kleppy",
     "printer_structure": "i3",
     "printer_technology": "FFF",
