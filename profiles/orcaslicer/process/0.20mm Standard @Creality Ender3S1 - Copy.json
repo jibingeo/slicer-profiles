@@ -3,9 +3,11 @@
     "inherits": "0.20mm Standard @Creality Ender3S1",
     "is_custom_defined": "0",
     "name": "0.20mm Standard @Creality Ender3S1 - Copy",
+    "only_one_wall_top": "1",
     "print_settings_id": "0.20mm Standard @Creality Ender3S1 - Copy",
     "skirt_height": "1",
     "skirt_loops": "4",
     "version": "2.3.1.10",
-    "wall_loops": "4"
+    "wall_loops": "4",
+    "wall_sequence": "inner-outer-inner wall"
 }

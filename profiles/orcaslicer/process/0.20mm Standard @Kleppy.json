@@ -11,6 +11,5 @@
     "skirt_speed": "15",
     "top_shell_layers": "5",
     "version": "2.2.0.4",
-    "wall_loops": "3",
-    "wall_sequence": "inner-outer-inner wall"
+    "wall_loops": "3"
 }
