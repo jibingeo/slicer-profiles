@@ -1,36 +1,39 @@
 {
-    "deretraction_speed": [
-        "35"
-    ],
-    "from": "User",
-    "gcode_flavor": "klipper",
-    "inherits": "Creality Ender-3 S1 0.4 nozzle",
-    "machine_end_gcode": "END_PRINT",
-    "machine_start_gcode": "M117\nSTART_PRINT BED=[bed_temperature_initial_layer_single] EXTRUDER=[nozzle_temperature_initial_layer]",
-    "name": "Creality Ender-3 S1 0.4 - Kleppy EBB",
-    "nozzle_type": [
-        "brass"
-    ],
-    "print_host": "http://192.168.68.71/",
-    "printer_extruder_id": [
-        "1"
-    ],
-    "printer_extruder_variant": [
-        "Direct Drive Standard"
-    ],
-    "printer_settings_id": "Creality Ender-3 S1 0.4 - Kleppy EBB",
-    "retraction_length": [
-        "0.2"
-    ],
-    "retraction_minimum_travel": [
-        "1"
-    ],
-    "retraction_speed": [
-        "35"
-    ],
-    "support_multi_bed_types": "1",
-    "version": "2.2.0.4",
-    "z_hop": [
-        "0"
-    ]
+	"deretraction_speed": [
+		"35"
+	],
+	"from": "User",
+	"gcode_flavor": "klipper",
+	"inherits": "Creality Ender-3 S1 0.4 nozzle",
+	"machine_end_gcode": "END_PRINT",
+	"machine_start_gcode": "M117\nSTART_PRINT BED=[bed_temperature_initial_layer_single] EXTRUDER=[nozzle_temperature_initial_layer]",
+	"name": "Creality Ender-3 S1 0.4 - Kleppy EBB",
+	"nozzle_type": [
+		"brass"
+	],
+	"print_host": "http://192.168.68.71/",
+	"printer_extruder_id": [
+		"1"
+	],
+	"printer_extruder_variant": [
+		"Direct Drive Standard"
+	],
+	"printer_settings_id": "Creality Ender-3 S1 0.4 - Kleppy EBB",
+	"retraction_length": [
+		"0.2"
+	],
+	"retraction_minimum_travel": [
+		"1"
+	],
+	"retraction_speed": [
+		"35"
+	],
+	"support_multi_bed_types": "1",
+	"version": "2.2.0.4",
+	"z_hop": [
+		"0.2"
+	],
+	"z_hop_types": [
+		"Spiral Lift"
+	]
 }
